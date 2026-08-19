@@ -1,6 +1,6 @@
 # Bash Scripting Assignment - DevOps Course
 
-This repository contains three Bash scripts written as part of the Bash/Git course assignment.
+This repository contains three Bash scripts written as part of the Bash/GitHub course assignment.
 
 ## Contents
 
